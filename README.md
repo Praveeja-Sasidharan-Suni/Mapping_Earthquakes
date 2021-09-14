@@ -58,10 +58,17 @@ Final map with major Earthquake data added:
 Using our knowledge of JavaScript and Leaflet.js, add a third map style to your earthquake map.A third map tile layer is created.
 The third map is added to the overlay object.All the earthquake data and tectonic plate data are displayed on the all maps of the webpage.
 
- 
+ Final map with a dark tile layer
 
 ![dark-view2.PNG](https://github.com/Praveeja-Sasidharan-Suni/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/dark-view2.PNG?raw=true)
 
+All the earthquake data and tectonic plate data are displayed on Satellite tile layer.
+
+![satellite-final.PNG](https://github.com/Praveeja-Sasidharan-Suni/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/satellite-final.PNG?raw=true)
+
+All the earthquake data and tectonic plate data are displayed on street tile layer.
+
+![streetfinal.PNG](https://github.com/Praveeja-Sasidharan-Suni/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/streetfinal.PNG?raw=true)
 
 
 # Deliverable 4:  
